@@ -16,7 +16,7 @@ I like Programming as well as Cybersecurity & learning the same (Learning never 
 - 🔭 &nbsp; I’m currently working on mastering **Backend Technology**
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/tanishkandira?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech & security related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech & security related, Happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://leetcode.com/Tanish_K_/)
 <!-- - 📚 &nbsp; When I am free, I read fantasy, fiction novels as well as philosphical Books. Checkout my [Goodreads]() to see the book I have read-->
 
