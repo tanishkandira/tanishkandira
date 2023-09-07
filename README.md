@@ -45,8 +45,8 @@ I like Programming as well as Cybersecurity & learning the same (Learning never 
 
 ## 📊 Leetcode Stats:
 
-<img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/Tanish_K_?theme=dark&font=K2D&ext=activity" height="360px" width="300px"/>
-<img align="left" alt="tanishkandira" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkandira&show_icons=true&locale=en&layout=compact">
+<img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/Tanish_K_?theme=dark&font=K2D&ext=activity"/>
+<img align="center" alt="tanishkandira" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkandira&show_icons=true&locale=en&layout=compact">
 <img align="right" alt="tanishkandira" src="https://github-readme-stats.vercel.app/api?username=tanishkandira&show_icons=true&locale=en">
 
 <!-- <img align="left" alt="tanishkandira" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkandira"> -->
