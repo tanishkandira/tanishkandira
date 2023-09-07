@@ -45,7 +45,7 @@ I like Programming as well as Cybersecurity & learning the same (Learning never 
 
 ## 📊 Leetcode Stats:
 
-<img align="center" alt="Leetcode" src="https://leetcard.jacoblin.cool/Tanish_K_?theme=dark&font=K2D&ext=activity"/>
+<img align="center" alt="Leetcode" src="https://leetcard.jacoblin.cool/Tanish_K_?theme=dark&font=K2D&ext=activity" height="360px" width="360px"/>
 
 <br>
 <!--
