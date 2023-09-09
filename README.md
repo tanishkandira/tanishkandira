@@ -1,5 +1,5 @@
 # Hey 👋, I'm Tanish Kandira!
-<a href='https://www.linkedin.com/in/tanishkandira/'><img align='left' alt="LinkedIn" src="https://github.com/tanishkandira/tanishkandira/assets/76102402/346baa38-d304-4f69-8d8a-645df2d4ac4c" height='70px'/></a>
+<a href="https://www.linkedin.com/in/tanishkandira/" target="blank"><img align='left' alt="LinkedIn" src="https://github.com/tanishkandira/tanishkandira/assets/76102402/346baa38-d304-4f69-8d8a-645df2d4ac4c" height='70px'/></a>
 <a href='https://leetcode.com/Tanish_K_/'><img align='left' alt="Leetcode" src="https://github.com/tanishkandira/tanishkandira/assets/76102402/f184310e-5956-4574-bc52-8afaa2d1cd6c" height='70px'/></a>
 <a href='https://tryhackme.com/p/TanishK'><img alt="TryHackMe" src="https://github.com/tanishkandira/tanishkandira/assets/76102402/c6ddf2a2-cf7c-4e9c-b6f6-a7aa9815d3fb" height='70px'/></a>
 
