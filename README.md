@@ -18,7 +18,8 @@ I like Programming as well as Cybersecurity & learning the same (Learning never 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/tanishkandira?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech & security related, Happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://leetcode.com/Tanish_K_/)
-<!-- - 📚 &nbsp; When I am free, I read fantasy, fiction novels as well as philosphical Books. Checkout my [Goodreads]() to see the book I have read-->
+- 📚 &nbsp; When I am free, I read fantasy, fiction novels as well as philosphical Books.
+- 📖 &nbsp; Checkout my project [Miskatonic-Library](https://miskatonic-library.netlify.app/) to explore different Books. [Github Repo](https://github.com/tanishkandira/Miskatonic-Library).
 
 <br>
 
