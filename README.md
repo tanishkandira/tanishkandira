@@ -1,7 +1,7 @@
 # Hey 👋, I'm Tanish Kandira!
 <a href="https://www.linkedin.com/in/tanishkandira/" target="blank"><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/tanishkandira/Test/master/icons8-linkedin.svg" height='70px'/></a>
 <a href='https://leetcode.com/Tanish_K_/'><img align='left' alt="Leetcode" src="https://raw.githubusercontent.com/tanishkandira/Test/master/leetcode.svg" height='70px'/></a>
-<a href='https://tryhackme.com/p/TanishK'><img alt="TryHackMe" src="https://raw.githubusercontent.com/tanishkandira/Test/master/tryhackme-white.svg" height='70px'/></a>
+<a href='https://tryhackme.com/p/TanishK'><img alt="TryHackMe" src="https://raw.githubusercontent.com/tanishkandira/Test/master/tryhackme.svg" height='70px'/></a>
 
 
 I am a versatilist and easily adapt to different technologies depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
